@@ -45,4 +45,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sarthak-0-sach&show_icons=true&locale=en" alt="github stats" />
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-0-sach&" alt="streak stats" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-0-sach&" alt="streak stats" /></p>
