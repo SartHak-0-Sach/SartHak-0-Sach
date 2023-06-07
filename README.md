@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-0-sach&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-0-sach" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak-0-sach" alt="sarthak-0-sach" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sarthak_sach69" target="blank"><img src="https://img.shields.io/twitter/follow/sarthak_sach69?logo=twitter&style=for-the-badge" alt="sarthak_sach69" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [itsmesarthak.com](itsmesarthak.com)
@@ -45,8 +43,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/loveyou3000"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/loveyou3000" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak-0-sach&show_icons=true&locale=en&layout=compact" alt="sarthak-0-sach" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak-0-sach&show_icons=true&locale=en" alt="sarthak-0-sach" /></p>
 
