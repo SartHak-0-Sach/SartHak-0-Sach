@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sarthak_sach69" target="blank"><img src="https://img.shields.io/twitter/follow/sarthak_sach69?logo=twitter&style=for-the-badge" alt="sarthak_sach69" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [itsmesarthak.com](itsmesarthak.com)
+- 👨‍💻 All of my projects are available at [https://itsmesarthak.netlify.app/](https://itsmesarthak.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@saarthaksach](https://medium.com/@saarthaksach)
 
