@@ -46,7 +46,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sarthak-0-sach&show_icons=true&locale=en" alt="github stats" /><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-0-sach&" alt="streak stats" /></p>
-<br>
-<br>
+<br><br><br><br><br>
 
 ## If this page appears broken kindly try refreshing it
