@@ -46,6 +46,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sarthak-0-sach&show_icons=true&locale=en" alt="github stats" /><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-0-sach&" alt="streak stats" /></p>
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
-## If this page appears broken kindly try refreshing it
+## If this page appears broken kindly try refreshing it, thanks😊
+<p><b>Thank you for reading all the way to the bottom, here is a cookie for you🍪🍪</p></b>
