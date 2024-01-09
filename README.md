@@ -48,5 +48,4 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-0-sach&" alt="streak stats" /></p>
 <br><br><br><br><br><br><br><br><br>
 
-## If this page appears broken kindly try refreshing it, thanks😊
-<p><b>Thank you for reading all the way to the bottom, here is a cookie for you🍪🍪</p></b>
+## If this page appears broken kindly try refreshing it, thanks!😊
