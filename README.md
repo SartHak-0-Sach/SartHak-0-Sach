@@ -1,4 +1,4 @@
-![logo](https://github.com/SartHak-0-Sach/SartHak-0-Sach/blob/main/LinkedIn%20banner.png)
+![logo](https://github.com/SartHak-0-Sach/SartHak-0-Sach/blob/main/banner.png)
 <h1 align="center">Hi👋, my name is Sarthak Sachdev</h1>
 <h3 align="center">A passionate full stack developer and software engineer from India</h3>
 
