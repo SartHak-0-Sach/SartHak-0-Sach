@@ -48,4 +48,5 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-0-sach&" alt="streak stats" /></p>
 <br><br><br><br><br><br><br><br><br>
 
-## If this page appears broken kindly try refreshing it, thanks!😊
+## If this page appears broken kindly try refreshing it!😊
+<b><p>Thank you for reading all the way to the bottom. If you're curious about what I do, feel free to explore my projects in the 'Repository' tab. Appreciate your time, take care!!</p></b>
