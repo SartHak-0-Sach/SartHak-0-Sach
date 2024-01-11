@@ -49,4 +49,4 @@
 <br><br><br><br><br><br><br><br><br>
 
 ## If this page appears broken kindly try refreshing it, thanks!😊
-<b><p align="right">Thank you for reading all the way to the bottom. If you're curious about what I do, feel free to explore my projects in the 'Repository' tab. Appreciate your time!"</p></b>
+<b><p align="right">Thank you for reading all the way to the bottom. If you're curious about what I do, feel free to explore my projects in the 'Repository' tab.</p></b>
