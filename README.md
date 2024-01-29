@@ -6,7 +6,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-0-sach&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-0-sach" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sarthak_sach69" target="blank"><img src="https://img.shields.io/twitter/follow/sarthak_sach69?logo=twitter&style=for-the-badge" alt="sarthak_sach69" /></a> </p>
+<br>
+
+<p align="left"> <a href="https://twitter.com/sarthak_sach69" target="_blank"><img src="https://img.shields.io/twitter/follow/sarthak_sach69?logo=twitter&style=for-the-badge&labelColor=%232e3330&color=grey" alt="sarthak_sach69" /></a> </p>
+
+<br>
+
+<p align="left"> <a href="https://github.com/SartHak-0-Sach" target="_blank"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sarthak-0-Sach?style=social&logo=github&labelColor=%232e3330&color=%238e4440"> </a> </p>
+<p>To support my work, follow me here on GitHub, it means a lot🥹</p>
+
+
 
 - 👨‍💻 All of my projects are available at [https://itsmesarthak.netlify.app/](https://itsmesarthak.netlify.app/)
 
@@ -15,10 +24,6 @@
 - 📫 How to reach me **saarsaach30@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sarthak2004/](https://www.linkedin.com/in/sarthak2004/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,10 +48,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/loveyou3000"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/loveyou3000" /></a></p><br><br><br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sarthak-0-sach&show_icons=true&locale=en" alt="github stats" /><br><br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak-0-sach&show_icons=true&locale=en" alt="sarthak-0-sach" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-0-sach&" alt="streak stats" /></p>
-<br><br><br><br><br><br><br><br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak-0-sach&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="sarthak-0-sach" /></p>
 
-## If this page appears broken kindly try refreshing it, thanks!😊
-<b><p align="right">Thank you for visiting my profile. If you're curious about what I do, feel free to explore my projects in the 'Repository' tab.</p></b>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-0-sach&theme=dark" alt="sarthak-0-sach" /></p>
+
+### If this page appears broken kindly try refreshing it, thanks!😊
+<b><p align="left">Thank you for visiting my profile. If you're curious about what I do, feel free to explore my projects in the 'Repository' tab.</p></b>
