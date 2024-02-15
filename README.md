@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [medium](https://medium.com/@saarthaksach)
 
-- 📫 How to reach me? Email "hi" at my work email or at **saarsaach30@gmail.com**
+- 📫 How to reach me? Email me at **saarsaach30@gmail.com**
 
 - 📄 Know about my experiences [on LinkedIn](https://www.linkedin.com/in/sarthak2004/)
 
