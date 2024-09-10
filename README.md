@@ -54,7 +54,7 @@
 
 <br /> <br />
 
-<h3 align="left">My projects/notes are fire, all for free!🔥😎<br /> A coffee donation would really support me!🫶😇</h3>
+<h3 align="left">My work is fire, all available for free!!🔥😎<br /> A coffee donation would really support me!🫶😇</h3>
 
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/loveyou3000"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/loveyou3000" /></a></p>
 
