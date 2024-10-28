@@ -68,5 +68,7 @@
 
 <br />
 
+[![An image of @sarthak0sach's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarthak0sach)](https://holopin.io/@sarthak0sach)
+
 ### If this page appears broken kindly try refreshing it, thanks!😊
 <b><p align="left">Thank you for visiting my profile. If you're curious about what I do, feel free to explore my projects in the 'Repository' tab.</p></b>
