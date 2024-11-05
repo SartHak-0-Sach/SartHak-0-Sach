@@ -20,10 +20,10 @@
 
 ### Who Am I? 🤠
 
-- 🤓 Self taught Developer 
-- 👩‍💻 Working on Web & App Development 
+- 🤓 Self taught Programmer 
+- 👩‍💻 Working on my dev skills, various technologies and tech stacks 
 - 📝 Writing Words, Compiling Code
-- 🎯 Goal : To be a better Developer
+- 🎯 Goal : To be a better developer and learn best practices of coding 
 
 <br />
 
