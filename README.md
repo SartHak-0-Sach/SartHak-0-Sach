@@ -36,7 +36,9 @@
 
 <br />
 
-## Where did all my projects go? Follow these organizations owned by me-
+## Where did all my projects go?
+
+Click on the links mentioned below and follow these organizations owned by me to access my projects and notes presented in a systematic fashion-
 
 **[All my frontend projects](https://github.com/all-my-frontend-mini-projects)**
 <img alt="projects organization" src="./organization-1.png">
@@ -49,8 +51,8 @@
 
 <br />
 
-### Want to know me better? Connect with me😁👇🏻
-**Connect with me, click on the social media icons below to checkout my profile:-**
+### Want to know me better?😄👇🏻
+**Connect with me by clicking on the social media icons below to checkout my various profiles:-**
 <p align="left">
 <a href="https://linkedin.com/in/sarthak2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak2004" height="30" width="40" /></a>
 <a href="https://instagram.com/sarthaksach3004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthaksach3004" height="30" width="40" /></a>
