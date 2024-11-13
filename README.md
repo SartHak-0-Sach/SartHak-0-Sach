@@ -36,7 +36,7 @@
 
 <br />
 
-## Where did all my projects go? Follow my organizations to see them in an organized fashion-
+## Where did all my projects go? Follow these organizations owned by me-
 
 **[All my frontend projects](https://github.com/all-my-frontend-mini-projects)**
 <img alt="projects organization" src="./organization-1.png">
