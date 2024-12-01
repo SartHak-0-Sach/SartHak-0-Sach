@@ -21,7 +21,7 @@
 ### Who Am I?🤠
 
 - 🤓 Self taught Programmer 
-- 👩‍💻 Working on my dev skills, various technologies and tech stacks 
+- 👩‍💻 Working on my dev skills, various frameworks & tech stacks 
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better developer and learn best practices of coding 
 
